@@ -5,7 +5,7 @@ Associate Software Engineer | .NET Core | ASP.NET Core Web API | SQL Server | Re
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mangesh-patil-8944a3373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
